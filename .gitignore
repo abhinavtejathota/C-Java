@@ -1,0 +1,5 @@
+# Windows executable files
+.exe
+
+# Compiled Java class files
+.class
